@@ -1,0 +1,3 @@
+let printWindow = () => {
+  window.print();
+};
