@@ -13,3 +13,4 @@ const checkTwoArray = (arr, arr2) => {
 console.log(checkTwoArray([2,3,4],[2,3,4]))
 console.log(checkTwoArray([2,5,4],[2,3,7]))
 console.log(checkTwoArray([2,5,4],[2,3,7]))
+console.log(checkTwoArray([2,5,4,5],[2,3,7]))
